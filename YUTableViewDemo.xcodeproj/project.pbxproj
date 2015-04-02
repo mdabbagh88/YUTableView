@@ -36,7 +36,6 @@
 		2047CE2118A3C5B3003843CC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2047CE2318A3C5B3003843CC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2047CE2518A3C5B3003843CC /* YUTableViewDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "YUTableViewDemo-Prefix.pch"; sourceTree = "<group>"; };
-		2047CE3918A3C5B3003843CC /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		2047CE4F18A3C5C3003843CC /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2047CE5018A3C5C3003843CC /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		2047CE5318A3C5C3003843CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main_iPad.storyboard; sourceTree = "<group>"; };
@@ -100,7 +99,6 @@
 				2047CE1718A3C5B3003843CC /* Foundation.framework */,
 				2047CE1918A3C5B3003843CC /* CoreGraphics.framework */,
 				2047CE1B18A3C5B3003843CC /* UIKit.framework */,
-				2047CE3918A3C5B3003843CC /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
