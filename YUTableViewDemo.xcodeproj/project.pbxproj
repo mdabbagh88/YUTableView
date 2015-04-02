@@ -25,6 +25,8 @@
 		2047CE7E18A3C5C3003843CC /* ComplexSubTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2047CE6D18A3C5C3003843CC /* ComplexSubTableViewCell.m */; };
 		2047CE7F18A3C5C3003843CC /* YUTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2047CE7018A3C5C3003843CC /* YUTableView.m */; };
 		2047CE8018A3C5C3003843CC /* YUTableViewItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 2047CE7318A3C5C3003843CC /* YUTableViewItem.m */; };
+		8B3518511ACD448500E742A2 /* LICENSE.md in Sources */ = {isa = PBXBuildFile; fileRef = 8B35184F1ACD448500E742A2 /* LICENSE.md */; };
+		8B3518521ACD448500E742A2 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8B3518501ACD448500E742A2 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +62,8 @@
 		2047CE7118A3C5C3003843CC /* YUTableViewCellDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YUTableViewCellDelegate.h; sourceTree = "<group>"; };
 		2047CE7218A3C5C3003843CC /* YUTableViewItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YUTableViewItem.h; sourceTree = "<group>"; };
 		2047CE7318A3C5C3003843CC /* YUTableViewItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YUTableViewItem.m; sourceTree = "<group>"; };
+		8B35184F1ACD448500E742A2 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = SOURCE_ROOT; };
+		8B3518501ACD448500E742A2 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +127,8 @@
 		2047CE1E18A3C5B3003843CC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8B35184F1ACD448500E742A2 /* LICENSE.md */,
+				8B3518501ACD448500E742A2 /* README.md */,
 				2047CE1F18A3C5B3003843CC /* YUTableViewDemo-Info.plist */,
 				2047CE2018A3C5B3003843CC /* InfoPlist.strings */,
 				2047CE2318A3C5B3003843CC /* main.m */,
@@ -296,6 +302,8 @@
 				2047CE7B18A3C5C3003843CC /* ComplexItem.m in Sources */,
 				2047CE7818A3C5C3003843CC /* ComplexViewController.m in Sources */,
 				2047CE2418A3C5B3003843CC /* main.m in Sources */,
+				8B3518521ACD448500E742A2 /* README.md in Sources */,
+				8B3518511ACD448500E742A2 /* LICENSE.md in Sources */,
 				2047CE7C18A3C5C3003843CC /* BasicTableViewCell.m in Sources */,
 				2047CE7D18A3C5C3003843CC /* ComplexMainTableViewCell.m in Sources */,
 				2047CE7918A3C5C3003843CC /* MainViewController.m in Sources */,
